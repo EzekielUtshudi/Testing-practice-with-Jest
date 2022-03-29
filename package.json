@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stringLength.js",
+  "scripts": {
+    "test": "jest ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyoubMs/Testing-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyoubMs/Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/AyoubMs/Testing-Practice#readme",
+  "devDependencies": {
+    "@babel/plugin-proposal-throw-expressions": "^7.16.7"
+  }
+}
